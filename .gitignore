@@ -1,0 +1,7 @@
+**/bin
+**/lib
+**/build
+**/image
+
+.vscode/
+.clang-format

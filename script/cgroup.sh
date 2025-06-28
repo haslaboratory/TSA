@@ -1,0 +1,1 @@
+sudo -E cgexec -g memory:memory_limit_group ./stall_test
